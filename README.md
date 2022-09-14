@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Python Development
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on linkedin https://www.linkedin.com/in/majestic-zord-8968411a5
+- 📫 How to reach me on linkedin https://www.linkedin.com/in/majesticzord
 
 <!---
 MajesticZord/MajesticZord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
